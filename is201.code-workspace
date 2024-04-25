@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../myimgs"
+		},
+		{
+			"path": "../HalliesImgs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-clean-blog-gh-pages"
+	}
+}
